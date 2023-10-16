@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct  9 16:04:39 2023
-
-@author: jgsch
 """
 
 from dynesty import plotting as dyplot
