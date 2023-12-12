@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/703276913.svg)](https://zenodo.org/doi/10.5281/zenodo.10368147)
+
+
 RhoPop is a software for the identification of compositionally distinct populations of small planets ($\lesssim 2 R_\oplus$). It employs mixture models in a hierarchical framework and the dynesty nested sampler for parameter and evidence estimates. RhoPop includes a density-mass grid of water-rich compositions from water mass fraction (WMF) 0-1.0 and a grid of volatile-free rocky compositions over a core mass fraction (CMF) range of 0.006-0.95. Both grids were calculated using the ExoPlex mass-radius-composition calculator (https://github.com/CaymanUnterborn/ExoPlex).
 
 RhoPop is python 3 based and requires the following packages:
